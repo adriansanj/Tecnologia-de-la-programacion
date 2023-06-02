@@ -1,0 +1,10 @@
+Adrián Sanjuán Espejo
+
+Cambios:
+
+Clases añadidas:
+LessContaminationStrategy en el modelo
+LessContaminationStrategyBuilder en las factories
+
+Clases modificadas:
+Main: en initFactories incializamos LessContaminationStrategyBuilder
